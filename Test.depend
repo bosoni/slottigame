@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1536850964 source:/home/mika/CPP/ZILLA/Test/main.cpp
+	"include.h"
+
+1536850846 /home/mika/CPP/ZILLA/Test/include.h
+	<ZL_Application.h>
+	<ZL_Display.h>
+	<ZL_Surface.h>
+	<ZL_Signal.h>
+	<ZL_Audio.h>
+	<ZL_Font.h>
+	<ZL_Scene.h>
+	<iostream>
+	<map>
+	<vector>
+	<list>
+	<algorithm>
+	<string>
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_Application.h
+	"ZL_Math.h"
+	"ZL_String.h"
+	"ZL_Signal.h"
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_Math.h
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<algorithm>
+	<vector>
+	"ZL_String.h"
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_String.h
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<sstream>
+	<string>
+	<vector>
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_Signal.h
+	<vector>
+	<stddef.h>
+	<string.h>
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_Display.h
+	"ZL_String.h"
+	"ZL_Signal.h"
+	"ZL_Math.h"
+	"ZL_Application.h"
+	"ZL_Events.h"
+	<vector>
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_Events.h
+	"ZL_Math.h"
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_Surface.h
+	"ZL_File.h"
+	"ZL_Display.h"
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_File.h
+	"ZL_String.h"
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_Audio.h
+	"ZL_Application.h"
+	"ZL_File.h"
+	"ZL_Math.h"
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_Font.h
+	"ZL_File.h"
+	"ZL_Display.h"
+
+1535281096 /home/mika/CPP/ZILLA/ZillaLib/Include/ZL_Scene.h
+	"ZL_Math.h"
+
+1544605720 source:/home/mika/CPP/ZILLA/Test/SceneGame.cpp
+	"include.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+

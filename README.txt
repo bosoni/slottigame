@@ -1,6 +1,5 @@
 Slotti game
 (c) mjt, 2019 
-[mixut@hotmail.com]
 
 Released under MIT license.
 
